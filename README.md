@@ -5,4 +5,4 @@ I started this project as my original PSU was heavily damaged, burnt and with ma
 
 After many repairs I decided to build a new one from scratch and here is the result. The repro works flawlessly and outputs a solid +5 volts. However, I will offer no support on this project.
 
-DrPCB
+DocteurPCB
